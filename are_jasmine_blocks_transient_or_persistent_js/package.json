@@ -1,0 +1,12 @@
+{
+    "name": "are-jasmine-blocks-transient-or-persistent",
+    "version": "1.0.0",
+    "description": "Determine whether Jasmine blocks are transient or persistent test fixtures.",
+    "main": "src/is_transient.js",
+    "scripts": {
+        "test": "jasmine --config=jasmine.json"
+    },
+    "devDependencies": {
+        "jasmine": "^5.1.0"
+    }
+}

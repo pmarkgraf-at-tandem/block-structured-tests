@@ -1,0 +1,9 @@
+[package]
+name = "transient_or_persistent"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+speculate = { git = "https://github.com/altertable-ai/speculate.rs" }
